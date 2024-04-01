@@ -1,0 +1,1 @@
+This script is used by LB to load maps from luxTypes' inventory, allowing the game to update the maps without having the game shut down.
